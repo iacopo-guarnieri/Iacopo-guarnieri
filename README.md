@@ -59,4 +59,4 @@ I'm a software engineer with **5+ years of professional experience** building sc
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=iacopo-guarnieri&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iacopo-guarnieri&show_icons=true&theme=tokyonight&hide_border=true)
