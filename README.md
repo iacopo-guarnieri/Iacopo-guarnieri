@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="https://www.deltaiac.com/logo.svg?v=3" width="200"/>
+    <img src="https://www.deltaiac.com/logo.svg?v=4" width="200"/>
   </p>
 
   # Hi there, I'm Iacopo 👋
