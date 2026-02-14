@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://www.deltaiac.com/logo.svg" alt="DeltaIac Logo" width="120" />
-  
+  <p align="center" style="background-color:black; padding:20px;">
+    <img src="https://www.deltaiac.com/logo.svg" width="120"/>
+  </p>
+
   # Hi there, I'm Iacopo 👋
   
   ## 🚀 Senior Software Engineer | Backend Specialist | Full Stack Developer
