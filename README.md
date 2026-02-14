@@ -1,20 +1,16 @@
 <div align="center">
-  <img src="https://www.freepik.com/premium-vector/test-icon-symbol-white-background_309834491.htm" alt="DeltaIac Logo" width="120" />
+  <img src="hhttps://www.deltaiac.com/logo.svg" alt="DeltaIac Logo" width="120" />
   
   # Hi there, I'm Iacopo 👋
   
-  ### Senior Software Engineer | DeltaIac
+  ## 🚀 Senior Software Engineer | Backend Specialist | Full Stack Developer
   
   <p>
     <a href="https://www.deltaiac.com"><img src="https://img.shields.io/badge/Website-deltaiac.com-blue?style=flat-square" /></a>
-    <a href="https://linkedin.com/in/iacopo-guarnieri-977ab0169"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+    <a href="https://linkedin.com/in/iacopo-guarnieri"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
     <a href="mailto:iacopo.guarnieri@deltaiac.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=flat-square&logo=gmail" /></a>
   </p>
 </div>
-
-# Hi there, I'm Iacopo 👋
-
-## 🚀 Senior Software Engineer | Backend Specialist | Full Stack Developer
 
 I'm a software engineer with **5+ years of professional experience** building scalable backend systems, REST APIs, and full-stack applications.
 
